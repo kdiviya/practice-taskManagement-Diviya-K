@@ -1,0 +1,38 @@
+.title{
+    margin:0 auto;
+    max-width: 700px;
+    border: 2px solid rgb(3, 2, 2);
+    font-family:Georgia, 'Times New Roman', Times, serif;   
+}
+
+h1{
+    text-align: center;    
+}
+
+
+ul{
+    list-style-type:square;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+
+}
+
+li {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+.description{
+    margin:0 auto;
+    max-width: 700px;
+    padding:10px;
+    border: 2px solid rgb(3, 2, 2);
+    font-family:Georgia, 'Times New Roman', Times, serif;   
+  }
+
+  #message{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: center; 
+
+  }
